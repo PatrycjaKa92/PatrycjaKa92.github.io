@@ -11,7 +11,7 @@
     "author": "Patrycja Kawska",
     "license": "ISC",
     "dependencies": {
-        "browserslist": "^4.11.1",
+        "browserslist": "^4.16.5",
         "file-loader": "^6.0.0",
         "webpack-cli": "^3.3.11"
     },
