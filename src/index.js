@@ -1,3 +1,5 @@
-import 'src/styles/style.sass'
+import './styles/style.sass'
 
-import script from 'src/script.js'
+// import './script.js'
+
+console.log('Hello World!');
