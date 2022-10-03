@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Komentarze do: Przykładowa strona	</title>
-	<atom:link href="/static/przykladowa-strona/feed/" rel="self" type="application/rss+xml" />
-	<link>/static</link>
+	<atom:link href="/przykladowa-strona/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Kolejna witryna oparta na WordPressie</description>
 	<lastBuildDate>Sat, 17 Sep 2022 10:39:28 +0000</lastBuildDate>
 	<sy:updatePeriod>

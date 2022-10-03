@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Komentarze do: Witaj, świecie!	</title>
-	<atom:link href="/static/witaj-swiecie/feed/" rel="self" type="application/rss+xml" />
-	<link>/static/witaj-swiecie/</link>
+	<atom:link href="/witaj-swiecie/feed/" rel="self" type="application/rss+xml" />
+	<link>/witaj-swiecie/</link>
 	<description>Kolejna witryna oparta na WordPressie</description>
 	<lastBuildDate>Sat, 17 Sep 2022 10:39:28 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Autor: Komentator WordPressa		</title>
-		<link>/static/witaj-swiecie/#comment-1</link>
+		<link>/witaj-swiecie/#comment-1</link>
 
 		<dc:creator><![CDATA[Komentator WordPressa]]></dc:creator>
 		<pubDate>Sat, 17 Sep 2022 10:39:28 +0000</pubDate>
-		<guid isPermaLink="false">/static/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/?p=1#comment-1</guid>
 
 					<description><![CDATA[Cześć, to jest komentarz.
 Aby zapoznać się z moderowaniem, edycją i usuwaniem komentarzy, należy odwiedzić ekran komentarzy w kokpicie.
